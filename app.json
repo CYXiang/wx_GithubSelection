@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/my/my"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Github社区精选",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+    {
+      "pagePath": "pages/index/index",
+      "text": "发现",
+      "iconPath": "pages/images/tabBar/faxian.png",
+      "selectedIconPath": "pages/images/tabBar/faxian_fff.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "订阅",
+      "iconPath": "pages/images/tabBar/dingyue.png",
+      "selectedIconPath": "pages/images/tabBar/dingyue_fff.png"
+    },
+    {
+      "pagePath": "pages/my/my",
+      "text": "我的",
+      "iconPath": "pages/images/tabBar/mine.png",
+      "selectedIconPath": "pages/images/tabBar/mine_fff.png"
+    }
+    ]
+  }
+}

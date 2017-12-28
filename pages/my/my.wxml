@@ -1,0 +1,6 @@
+<!--  class='xxx',xxx样式，如同CSS样式 -->
+<view class="flex-container">
+    <view class="children1">1</view>
+    <view class="children2">2</view>
+    <view class="children3">3</view>
+</view>

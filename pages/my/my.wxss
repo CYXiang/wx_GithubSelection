@@ -1,0 +1,23 @@
+.flex-container {
+    height: 200rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center;
+    background-color: lightblue;
+}
+.children1 {
+    height: 100rpx;
+    width: 100rpx;
+    background-color: red;
+}
+.children2 {
+    width: 100rpx;
+    height: 100rpx;
+    background-color: yellow;
+}
+.children3 {
+    width: 100rpx;
+    height: 100rpx;
+    background-color: purple;
+}
